@@ -38,6 +38,8 @@ sudo snap install docker
 ```
 sudo pacman -S docker python
 ```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CW4RR10R/python-aria-mirror-bot/tree/master)
+
 
 ## Setting up config file
 ```
