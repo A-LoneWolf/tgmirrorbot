@@ -38,8 +38,7 @@ sudo snap install docker
 ```
 sudo pacman -S docker python
 ```
-![Deploy](https://www.herokucdn.com/deploy/button.svg)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Setting up config file
 ```
